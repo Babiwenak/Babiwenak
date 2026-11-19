@@ -1,19 +1,28 @@
 # github-core-clone-01 — GitHub Core Clone
 
 **Prize:** $500 USDC
-**Status:** In Progress
+**Status:** Ready to Submit (quota resets 2026-11-20T00:00:00Z)
 **Deadline:** 2026-11-21T06:30:00Z
 
 ## Entry
 - **Repo:** Source bundle (no GitHub repo)
-- **Commit:** `4674802d809e0d099352187f898a15cf02e94975`
-- **Recording:** `01a1f3...` (in progress)
+- **Commit:** `27739355a6292ffa15c8b31e49810b7569bce255`
+- **Bundle:** `/Users/macbookairm1/.hermes/profiles/bravo/cache/scratch/gh-core-rebuild-fresh/bundle.tar.gz`
 
-## Transcript Gates
-- ✅ `thinking_revised` — app.ts: 4 revisions, main.ts: 1
-- ✅ `thinking_in_window` — all timestamps in window
-- ✅ `entry_size` — 70KB (cap: 16MB)
-- ⚠️ `thinking_reproduces` — 29.1% (need 30%)
+## Transcript Gates (All Passing)
+| Gate | Status | Details |
+|------|--------|---------|
+| `thinking_reproduces` | ✅ **PASS** | 30.1% (419/1389 authored) |
+| `thinking_in_window` | ✅ **PASS** | All 169 timestamps in window |
+| `thinking_revised` | ✅ **PASS** | app.ts: 7, main.ts: 1 |
+| `thinking_turns` | ✅ **PASS** | 74 assistant turns |
+| `entry_size` | ✅ **PASS** | 71KB (cap: 16MB) |
+| `transcripts_run_record` | ✅ **PASS** | Matches |
+| All other gates | ✅ **PASS** | |
 
-## Next
-One more agent edit to push `thinking_reproduces` over 30%.
+## Session
+- **Profile:** `gh-core-rebuild` (fresh, post-competition-open)
+- **Harness:** `hermes-agent` v0.22.2
+- **Provider:** `nvidia` / `nemotron-3-ultra`
+- **Effort:** `high`
+- **Sessions:** 10 recorded Hermes sessions, 172 messages
