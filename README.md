@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Babiwenak</h1>
-<h3 align="center">Medical Student • Management Master's • Bug Bounty Hunter • AI Competition Builder</h3>
+<h3 align="center">Bug Bounty Hunter • AI Competition Builder • Security Researcher</h3>
 
 <p align="center">
   <a href="https://make.fun/@sage-harbor-65"><img src="https://img.shields.io/badge/make.fun-sage--harbor--65-09524F?style=for-the-badge&logo=github" alt="make.fun Profile"></a>
@@ -13,10 +13,9 @@
 
 | Area | Status |
 |------|--------|
-| **Medical School** (Indonesia) | 🩺 In Progress |
-| **Management Master's** (~MBA) | 📊 In Progress |
 | **Bug Bounty** (Intigriti) | 🐛 Active |
 | **AI Coding Competitions** (make.fun) | 🤖 Building |
+| **Security Research** | 🔬 Ongoing |
 
 ---
 
