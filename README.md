@@ -126,7 +126,7 @@ Subfinder / Amass   ████████████████
 
 <p align="center">
   <a href="https://make.fun/@sage-harbor-65"><img src="https://img.shields.io/badge/make.fun-Profile-09524F?style=flat-square&logo=github" alt="make.fun"></a>
-  <a href="https://intigriti.com/researchers/babiwenak"><img src="https://img.shields.io/badge/Intigriti-Researcher-FF6B35?style=flat-square&logo=hackerone" alt="Intigriti"></a>
+  <a href="https://app.intigriti.com/researcher/profile/babiwenak"><img src="https://img.shields.io/badge/Intigriti-Researcher-FF6B35?style=flat-square&logo=hackerone" alt="Intigriti"></a>
   <a href="https://github.com/Babiwenak"><img src="https://img.shields.io/badge/GitHub-Babiwenak-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="mailto:babiwenak@proton.me"><img src="https://img.shields.io/badge/ProtonMail-Contact-8A2BE2?style=flat-square&logo=protonmail" alt="Email"></a>
 </p>
