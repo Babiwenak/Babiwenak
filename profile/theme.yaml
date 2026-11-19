@@ -1,0 +1,19 @@
+# Babiwenak Profile Theme
+name: "Babiwenak"
+description: "make.fun competition profile theme"
+colors:
+  primary: "#09524F"    # Teal
+  secondary: "#FFFFFF"  # White
+  accent: "#E8E8E8"     # Light gray
+  dark: "#0A0A0A"       # Near black
+typography:
+  heading: "IBM Plex Sans"
+  body: "IBM Plex Sans"
+  mono: "IBM Plex Mono"
+spacing:
+  base: 8
+  scale: 1.25
+border_radius: 8
+tracking: -0.03
+dark_mode: true
+light_mode: true
