@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Babiwenak</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/babiwenak">Babiwenak</a></h1>
 <h3 align="center">Bug Bounty Hunter • AI Competition Builder • Security Researcher</h3>
 
 <p align="center">
-  <a href="https://make.fun/@sage-harbor-65"><img src="https://img.shields.io/badge/make.fun-sage--harbor--65-09524F?style=for-the-badge&logo=github" alt="make.fun Profile"></a>
+  <a href="https://make.fun/babiwenak"><img src="https://img.shields.io/badge/make.fun-babiwenak-09524F?style=for-the-badge&logo=github" alt="make.fun Profile"></a>
   <a href="https://intigriti.com"><img src="https://img.shields.io/badge/Intigriti-babiwenak-FF6B35?style=for-the-badge&logo=hackerone" alt="Intigriti Profile"></a>
   <a href="mailto:babiwenak@proton.me"><img src="https://img.shields.io/badge/Email-babiwenak@proton.me-8A2BE2?style=for-the-badge&logo=protonmail" alt="Email"></a>
 </p>
@@ -27,18 +27,6 @@
 | **github-core-clone-01** | $500 | 🔄 Ready to Submit | TypeScript, Git Smart-HTTP, REST v3, GraphQL, MCP |
 | **token-radar-01** | $1,325 | ✅ Submitted | TypeScript, Birdeye/DexScreener/Pump.fun |
 | **free-model-aggregator-02** | $500 | ✅ Submitted | TypeScript, OpenAI/Anthropic Wire Adapters |
-
-<details>
-<summary><b>📊 Competition Details</b></summary>
-
-| Competition | Submission ID | Claim Code | Recording |
-|-------------|---------------|------------|-----------|
-| gta6-01 | `01a1f3d8-ebf7-72cd-81cc-5f21c91eda40` | `AF-ZVWKA-KCPDA-CZCEE-D95PR` | `01a1f3cf-87d2-738d-aeea-ed69454db68d` |
-| github-core-clone-01 | — | `AF-2XQB3-GFKEN-TPNBA-END05` | `gh-core-rebuild` profile |
-| token-radar-01 | `01a1eb40-1f33-7691-9e3b-3af91ba5eefa` | `AF-KJ81D-V7777-56XP3-QPG6E` | handed-over |
-| free-model-aggregator-02 | `01a1e27e-2610-7179-b13f-41401a228480` | `AF-N7255-KAX2N-FBEZ0-0A8RQ` | handed-over |
-
-</details>
 
 ---
 
@@ -125,7 +113,7 @@ Subfinder / Amass   ████████████████
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://make.fun/@sage-harbor-65"><img src="https://img.shields.io/badge/make.fun-Profile-09524F?style=flat-square&logo=github" alt="make.fun"></a>
+  <a href="https://make.fun/babiwenak"><img src="https://img.shields.io/badge/make.fun-babiwenak-09524F?style=flat-square&logo=github" alt="make.fun"></a>
   <a href="https://app.intigriti.com/researcher/profile/babiwenak"><img src="https://img.shields.io/badge/Intigriti-Researcher-FF6B35?style=flat-square&logo=hackerone" alt="Intigriti"></a>
   <a href="https://github.com/Babiwenak"><img src="https://img.shields.io/badge/GitHub-Babiwenak-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="mailto:babiwenak@proton.me"><img src="https://img.shields.io/badge/ProtonMail-Contact-8A2BE2?style=flat-square&logo=protonmail" alt="Email"></a>
